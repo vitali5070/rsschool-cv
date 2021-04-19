@@ -15,7 +15,8 @@
         so I decided to take a course at Rolling Scopes, because I've heard only positive feedbacks. 
       This is my story.***
   4. **HTML, PHP, a little Swift (UIKit, CoreData, MapKit, REALM, FireBase), start to learn Objective C.**
-  5. private func setupViews(){
+  5. **A little bit of my code:**
+  ```private func setupViews(){
             
         let collectionViewSizeHeight = mainView.bounds.size.height / 2
             
