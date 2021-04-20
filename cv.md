@@ -16,7 +16,7 @@
       This is my story.***
   4. **HTML, PHP, a little Swift (UIKit, CoreData, MapKit, REALM, FireBase), start to learn Objective C.**
   5. **A little bit of my code:**
-  ```private func setupViews(){
+        private func setupViews(){
             
         let collectionViewSizeHeight = mainView.bounds.size.height / 2
             
